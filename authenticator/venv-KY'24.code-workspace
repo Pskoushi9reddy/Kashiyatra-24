@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ky24",
+			"path": "../ky24"
+		},
+		{
+			"name": "authenticator",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
